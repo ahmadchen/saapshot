@@ -60,7 +60,7 @@ What things you need to install the software and how to install them.
 
 <div align="center">
   <br>
-  <img src="https://mixedreality.mozilla.org/static/img/experience/devices.png" alt="Templates" width="100%">
+  <img src="https://d25tv1xepz39hi.cloudfront.net/2019-09-24/files/canon-eos-m200-white_1924-11.gif" alt="Templates" width="100%">
   <br>
   <br>
 </div>
