@@ -2,7 +2,7 @@
 When I wrote this, only God and I understood what I was doing. Now, only God knows.
 ```
 <div align="center">
-  <a href="https://liyas-thomas.firebaseapp.com"><img src="https://raw.githubusercontent.com/ahmadchen/saapshot/master/assets/logo.gif" alt="《🏡Developer Pace Usa 🎭》" width="200"></a>
+  <a href="#"><img src="https://i.makeagif.com/media/8-20-2016/FLa7nI.gif" alt="《🏡Developer Pace Usa 🎭》" width="200"></a>
   <br>
   <h1>《🏡Developer Pace Usa 🎭》</h1>
   <sub>Built with ❤︎ by
