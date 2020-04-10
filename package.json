@@ -1,0 +1,16 @@
+{
+	"name": "saapshot",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ahmadchen/saapshot.git"
+	},
+	"description": "Camera app by Developer Pace Usa",
+	"author": "@mrlinkerrorsystem",
+	"version": "1.0.0",
+	"devDependencies": {
+		"jshint": "^2.8.0"
+	},
+	"scripts": {
+		"test": "jshint travis.js"
+	}
+}

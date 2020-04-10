@@ -1,0 +1,18 @@
+{
+	"name": "Saapshot",
+	"short_name": "Saapshot",
+	"description": "Camera app",
+	"scope": "/saapshot/",
+	"start_url": "/saapshot/",
+	"display": "fullscreen",
+	"orientation": "any",
+	"theme_color": "#fff",
+	"background_color": "#fff",
+	"icons": [
+		{
+			"src": "assets/images/favicon.png",
+			"sizes": "512x512",
+			"type": "image/png"
+    }
+	]
+}
