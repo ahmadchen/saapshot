@@ -45,7 +45,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 <div align="center">
   <br>
-  <img src="https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/ARUX_inline-option3.jpg" alt="Templates" width="100%">
+  <img src="https://d25tv1xepz39hi.cloudfront.net/2019-09-24/files/canon-eos-m200-vertical-videography_1924-9_c.jpg" alt="Templates" width="100%">
   <br>
 </div>
 
